@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eleven&#39;s Blog</title>
-    <link>https://didiaozy.github.io/</link>
-    <description>Recent content on Eleven&#39;s Blog</description>
+    <title>Posts on Eleven&#39;s Blog</title>
+    <link>https://didiaozy.github.io/post/</link>
+    <description>Recent content in Posts on Eleven&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2019, Weru and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 25 Aug 2019 00:52:59 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2019 22:30:49 +0800</lastBuildDate>
     
-	<atom:link href="https://didiaozy.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://didiaozy.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://didiaozy.github.io/post/future/</guid>
       <description>晚上看到一个猎头分享的物联网智库发布的最新IoT产业图谱，翻出了这位物联网女神给签名过的一本书——《智联网 未来的未来》。里面赫然记录着一句寄语“The future is not set”，时间是2018年11月，当时应该正在苏州参加研华举办的一个论坛，有幸对物联网和“外面的世界”有了些新的认识吧。在后面就是一次又一次思考促成我离开了曾经生活13年的城市，最后拖家带口了来到杭州开始了全新的生活。颇有些预言成真的意味。
 今天由于一妈有考试，第一次一个人开车带着Eleven出门，去白塔公园跟老何父女俩玩儿——两位程序员老父亲于周末毅然扛起了带娃重担！简单回忆一下当初的心路历程，也颇感谢他当初指点迷津。时间好快，从动了这个念头到现在差不多一年了吧，对当初的自己还真有点佩服呢</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://didiaozy.github.io/about/</link>
-      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://didiaozy.github.io/about/</guid>
-      <description>This is my son. So I&amp;rsquo;m this little boy&amp;rsquo;s father.
-GitHub.</description>
     </item>
     
   </channel>
